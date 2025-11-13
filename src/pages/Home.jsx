@@ -1,4 +1,4 @@
-import myPhoto from './../assets/imgs/IMG_4705.jpg'
+import myPhoto from '../../assets/imgs/IMG_4705.jpg'
 
 const Home = () => {
   return (
